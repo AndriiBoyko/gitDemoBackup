@@ -7,3 +7,19 @@ repositories, but it does not add the new
 
 add 22222
 more string
+
+#include <iostream>
+#include <windows.h>
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+
+		//D:/test/test.bat
+		char str1[100];
+		cin.getline(str1, 100);
+		system(str1);
+	
+}
