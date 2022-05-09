@@ -1,0 +1,9 @@
+int main()
+{
+
+		//D:/test/test.bat
+		char str1[100];
+		cin.getline(str1, 100);
+		system(str1);
+	
+}
