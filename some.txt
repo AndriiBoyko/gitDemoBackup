@@ -1,12 +1,3 @@
-return 
-everything to how it was in untracked.
- However, we want to perform a commit, so I
-
-simply synchronizes two
-repositories, but it does not add the new
-
-add 22222
-more string
 
 #include <iostream>
 #include <windows.h>
