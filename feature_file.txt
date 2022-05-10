@@ -13,3 +13,5 @@ two more strings in new feature
 two more strings in new feature
 two more strings in new feature
 
+add FIX
+
