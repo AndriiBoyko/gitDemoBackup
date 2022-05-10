@@ -3,3 +3,7 @@ here
 and here
 we add
 two more strings in new feature
+
+two more strings in new feature
+two more strings in new feature
+two more strings in new feature
