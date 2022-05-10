@@ -1,13 +1,2 @@
-int main()
-{
+test
 
-		//D:/test/test.bat
-		char str1[100];
-		cin.getline(str1, 100);
-		system(str1);
-	
-}
-//D:/test/test.bat
-		char str1[100];
-		cin.getline(str1, 100);
-		system(str1);
